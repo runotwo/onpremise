@@ -1,2 +1,2 @@
 # Add plugins here
-install sentry-telegram
+sentry-telegram
